@@ -44,9 +44,10 @@ Restaurant reviews are a valuable source of feedback for businesses and customer
 ## Results
 - **Accuracy**: The model achieved an accuracy of **79.5%** on the test dataset.
 - **Classification Report**:
-  ![ROC Curve](results/svm_clf_report.png)
+
+  ![Classication Report](results/svm_clf_report.png)
 - **Confusion Matrix**:
   ![Confusion Matrix](results/svm_confmat.png) 
 -**Streamlit interface**:
-  ![Confusion Matrix](results/streamlit_pos.png)
-  ![Confusion Matrix](results/streamli_neg.png)
+  ![Streamlit interface-pos-review](results/streamlit_pos.png)
+  ![Streamlit interface-neg-review](results/streamli_neg.png)
